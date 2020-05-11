@@ -1,2 +1,2 @@
 # DayAgendaPlanner
-A Excel Template for planning a day event
+An Excel Template for planning a day event
