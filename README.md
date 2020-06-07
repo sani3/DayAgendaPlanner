@@ -9,8 +9,9 @@ Day Agenda Planner is an Excel template we designed to ensure you can easily mee
 ## Relevant field information
 At the upper right corner, you are provided with three fields,
 1. **Day:** The unique identifier for the day for which you are planning the agenda
-2. **Date:** The date for the day you areplanning the agenda
-3. **Start time:** The time of the day you want the training to start
+2. **Date:** The date for the day you are planning the agenda
+3. **Start time:** The time of the day you want the training to start.
+
 The data you provide will be used to automatically populate relevant cells on the main table hence you are not allowed to edit some cells on the main table. A tip will always appear when you select a cell you are not expected to edit.
 
 You can edit any cell on the following fields of the main table
