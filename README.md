@@ -8,15 +8,15 @@ Day Agenda Planner is an Excel template we designed to ensure you can easily mee
 
 ## Relevant field information
 At the upper right corner, you are provided with three fields,
-**Day:** The unique identifier for the day for which you are planning the agenda
-**Date:** The date for the day you areplanning the agenda
-**Start time:** The time of the day you want the training to start
+1. **Day:** The unique identifier for the day for which you are planning the agenda
+2. **Date:** The date for the day you areplanning the agenda
+3. **Start time:** The time of the day you want the training to start
 The data you provide will be used to automatically populate relevant cells on the main table hence you are not allowed to edit some cells on the main table. A tip will always appear when you select a cell you are not expected to edit.
 
 You can edit any cell on the following fields of the main table
-**Module:** This field identifies the module a topic belongs to
-**Topics:** The title of an activity
-**Category:** The general category for an activity
-**Description:** The description of an activity
-**Facilitator:** The facilitator of an activity
-**Duration(min):** The duration in minutes for an activity
+1. **Module:** This field identifies the module a topic belongs to
+2. **Topics:** The title of an activity
+3. **Category:** The general category for an activity
+4. **Description:** The description of an activity
+5. **Facilitator:** The facilitator of an activity
+6. **Duration(min):** The duration in minutes for an activity
